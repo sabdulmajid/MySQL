@@ -7,3 +7,5 @@ CREATE TABLE twitterContent (
     numberOfFavorites INT NOT NULL,
     PRIMARY KEY (id)
 )
+
+DESC twitterContent;
