@@ -9,3 +9,5 @@ CREATE TABLE twitterContent (
 )
 
 DESC twitterContent;
+
+-- DROP TABLE twitterContent; -> command to delete the whole table
